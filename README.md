@@ -10,6 +10,7 @@
 # Manual installation
 - _Brave soul; you have my eternal gratitude_
 - Very simple! Download the files to the plugins folder (`NAME_OF_YOUR_VAULT/.obsidian/plugins`) using `git clone https://github.com/doomdagadiggiedahdah/obsidian-serendipity.git`
-- Go into the directory and run `npm install` followed by `npm run dev` (you can cancel that after it's run) now go to your Vault
+- Go into the directory and run `npm install` followed by `npm run dev` (you can cancel that after it's run).
+- Reload your vault (`Ctrl + P` then "Reload app without saving" or just close it and open it up again)
 - Finally, go to Settings > Community Plugins and look under "Installed Plugins". `Serendipity` should be an entry that you can toggle on.
 - Now test out the command!
