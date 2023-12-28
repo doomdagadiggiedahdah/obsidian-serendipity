@@ -1,0 +1,11 @@
+{
+	"id": "Serendipity",
+	"name": "Serendipity",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "Mat Allen",
+	"authorUrl": "https://github.com/doomdagadiggiedahdah",
+	"fundingUrl": "https://www.againstmalaria.com/",
+	"isDesktopOnly": false
+}
