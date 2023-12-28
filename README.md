@@ -1,5 +1,5 @@
 # Usage
-- Easy! `Ctrl + p` to open the command prompt, find the "Future randUnconn: Open Note Without Link" and press enter.
+- Easy! `Ctrl + p` to open the command prompt, find the "Serendipity: Open Note Without Link" and press enter.
 
 # What does it do? And why?
 - Opens a random, unlinked note from your vault.
